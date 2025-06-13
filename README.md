@@ -4,3 +4,4 @@ El propósito del proyecto es realizar un clasificador de numeros, en el cual se
 Para este proyecto se utilizó javascript y node.js para poder mostrarlo en consola.
 
 Primero se mostrará el menu de opciones enumeradas del 1 al 5, el usuario escribirá el numero de la opción que desea se realice, una vez seleccionado tendrá que ingresar el numero.
+se corre con node clasificaNumero.js
