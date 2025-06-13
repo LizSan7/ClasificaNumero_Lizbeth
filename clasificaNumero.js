@@ -9,7 +9,7 @@ function mostrarMenu() {
   console.log(`
 === MENÚ ===
 1. Determinar si el número es par o impar
-2. Determinar si es positivo, negativo o cero
+2. Determinar si es positivo, negativo o ceroo
 3. Verificar si es múltiplo de 5
 4. Verificar si es divisible entre 3 y 4 al mismo tiempo
 5. Salir
